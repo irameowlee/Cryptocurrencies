@@ -14,3 +14,8 @@ To creat a report that includes what cryptocurrencies are on the trading market 
 - Created an elbow curve
 - Created a scatter plot using hvplot
 - Created a 3D scatter plot with Plotly Express
+
+![elbow curve](images/ElbowCurve_crypto.jpg)
+![3D scatter plot](images/3D_crypto.jpg)
+![hvplot scatter plot](images/scatter_crypto.jpg)
+
